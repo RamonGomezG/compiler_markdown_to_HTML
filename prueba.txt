@@ -1,0 +1,15 @@
+# Bienvenido al documento
+
+Este es un texto introductorio que forma un párrafo completo para demostrar cómo se procesan varias líneas de texto.
+
+- Elemento de lista 1
+- Elemento de lista 2
+- Elemento de lista 3
+
+**Este texto está en negrita**
+
+*Este texto está en cursiva*
+
+==Este texto está resaltado==
+
+'Este es un código en línea'

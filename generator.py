@@ -4,6 +4,7 @@ def generate_html(ast):
     html = ""
     in_list = False
 
+    #despues se usará un diccionario de funciones para resolver esto en lugar de elif,. 
     for node in ast:
         if node.type == "HEADER":
             html += f"<h1>{node.value}</h1>\n"
